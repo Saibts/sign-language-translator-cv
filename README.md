@@ -45,3 +45,7 @@ A Computer Vision project to translate sign language gestures into text/speech i
    ```
    Show hand gestures in front of the webcam to translate them to letters on screen. Press **`Q`** to quit.
 
+5. **Sign language help card:**
+   
+<img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/7869d7ae-8b9f-4951-ba61-cf71557070a8" />
+
